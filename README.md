@@ -1,7 +1,7 @@
 <p align="center">
    
    <a href="https://github.com/TheAlphaX/AlphaX">
-      <img src="resources/extras/IMG_20210424_140546.jpg" height="400px" width="400px" border="1px" alt="alphax">
+      <img src="resources/logos/readme.jpg" alt="alphax">
    </a>
    <br>
    <b>AlphaX UserBot</b><br>
@@ -26,7 +26,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 Tutorial VIDEO WILL AVAILABLE SOON!
 
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAlphax/Alpha-X) 
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X) 
 
 ### API ID AND API HASH 
 ŦEŁEGŘλM 
