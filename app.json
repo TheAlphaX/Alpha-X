@@ -1,0 +1,80 @@
+{
+  "name": "ALPHA-X userbot",
+  "descripiton": "AN advance Telegram bot to manage YOur account and protect from scammers..with some Extra features.",
+  "logo": "https://telegra.ph/file/f1565ab0fb63b28232469.jpg", 
+  "keyboard": [
+    "Telegram",
+    "account",
+    "protect",
+    "scammers",
+    "features",
+    ],
+    "repository": "https://github.com/ThealphaX/Alpha-X/",
+
+ "stack": "heroku-18",
+
+   "env": {
+      "APP_ID":{
+        
+        "descripiton": "get your APP_ID from my.telegram.org",
+        
+        "value": ""
+        
+      },
+"API_HASH": {
+
+   "description": "Get this value from my.telegram.org! Please do not steal",
+
+   "value": ""
+
+  },
+
+  "STRING_SESSION": {
+
+   "description": "Important to activate your userbot. ",
+
+   "value": ""
+   
+
+  },
+"DATABASE_URI": {
+
+            "description": "Database URL from https://cloud.mongodb.com/",
+
+            "value": ""
+
+        },
+
+        "DATABASE_NAME": {
+
+            "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
+
+            "value": "Cluster0"
+            
+        },
+        
+"PMPERMIT_PIC": {
+
+  "description": "telegra.ph link to theimage you want as pmpermit pic, leave blank for default one!",
+
+  "value": "",
+
+  "required": false
+
+  }
+
+ },
+
+ "addons": [{
+
+  "plan": "heroku-postgress",
+
+  "options": {
+
+   "version": "12"
+
+  }
+
+ }]
+
+}
