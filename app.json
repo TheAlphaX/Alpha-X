@@ -45,7 +45,7 @@
 
         },
 
-        "DATABASE_NAME": {
+"DATABASE_NAME": {
 
             "description": "Your database name from mongoDB. ( Default will 'Cluster0' )",
 
