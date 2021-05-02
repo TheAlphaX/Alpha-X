@@ -1,1 +1,1 @@
-ALPHA-X: python3 -m ALPHA
+worker: python3 -m alpha
