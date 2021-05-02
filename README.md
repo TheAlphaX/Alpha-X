@@ -1,7 +1,7 @@
 <p align="center">
    
    <a href="https://github.com/TheAlphaX/AlphaX">
-      <img src="resources/logos/readme.jpg" height="400px" width="400px" border="1px" alt="alphax">
+      <img src="resources/logos/readme.jpg" alt="alphax">
    </a>
    <br>
    <b>AlphaX UserBot</b><br>
@@ -64,36 +64,33 @@ Check out and Watch the to get DATABASE_URI
 
 # 𝙳𝙴𝚅𝙴𝙻𝙿𝙾𝙴𝚁𝚂
 
-### TELEGRAM Accounts㋛︎
+### ACCOUNTS
 
 ##### Alone_loverboy ︎☻︎
 
-『𝄞⃝Ⱡⓞꪜє℟♪⃝⃤B͛Ꮻ𝐘』☞︎︎︎ <a href="https://t.me/Alone_loverboy"> <img src="https://img.shields.io/badge/loverboy-leaderdev-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
+TELEGRAM ☞︎︎︎ <a href="https://t.me/Alone_loverboy"> <img src="https://img.shields.io/badge/loverboy-leaderdev-black?style=social&logo=telegram" alt="DEVELOPER" /></a> 
+GITHUB ➛ <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
 
 ##### ROYAL DEVENDRA ☻︎
 
-『Royal ✪ Devendra』 🇮🇳☞︎︎︎ <a href="https://t.me/Royal_Devendra"> <img src="https://img.shields.io/badge/devendra-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
+TELEGRAM ☞︎︎︎ <a href="https://t.me/Royal_Devendra"> <img src="https://img.shields.io/badge/devendra-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
+GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="https://img.shields.io/badge/github-RoyalDevendra-teal?logo=github" /></a>
 
 ##### UNTOLD CODER ☻︎
 
-𝐔𝐧𝐭𝐨𝐥𝐝 𝐂𝐨𝐝𝐞𝐫☞︎︎︎ <a href="https://t.me/TheUntoldCoder"> <img src="https://img.shields.io/badge/UNTOLDCODER-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
+TELEGRAM ☞︎︎︎ <a href="https://t.me/TheUntoldCoder"> <img src="https://img.shields.io/badge/UNTOLDCODER-dev-blue? =social&logo=telegram" alt="DEVELOPER" /></a> 
+GITHUB ➛ <a href="https://github.com/TheUntoldCoder" alt="UNTOLD"><img src="https://img.shields.io/badge/github-Untoldcoder-green?logo=github" /></a> 
+##### Krishna ☻︎
 
-##### Mr. AnonYmouS ☻︎
 
-Mr. AnonYmouS™ 🔥☞︎︎︎ <a href="https://t.me/MRAn0nym0u5"> <img src="https://img.shields.io/badge/MR.AnonYmouS-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
 
 ##### 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗈𝖥 L͟O͟G͟O͟S͟+C͟L͟I͟P͟S͟ Oᖴ 𝐀𝐥𝐩𝐡𝐚-𝐗 ☻︎
 
-『Ⱨ₳₵₭ɆⱤ_₦Ø1』☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" /></a>
+Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" /></a>
 
 
 
-## Github Accounts㋛
 
-#### Alone_loverboy- <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
 
-#### Royal Devendra- <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="https://img.shields.io/badge/github-RoyalDevendra-teal?logo=github" /></a>
 
-#### UNTOLD CODER- <a href="https://github.com/TheUntoldCoder" alt="UNTOLD"><img src="https://img.shields.io/badge/github-Untoldcoder-green?logo=github" /></a> 
 
-#### Mr. AnonYmouS- <a href="https://github.com/ben1441" alt="AnonYmouS"><img src="https://img.shields.io/badge/github-Mr. AnonYmouS-red?logo=github" /></a>
