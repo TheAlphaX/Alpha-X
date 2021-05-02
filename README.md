@@ -78,7 +78,7 @@ GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="h
 
 ##### UNTOLD CODER ☻︎
 
-TELEGRAM ☞︎︎︎ <a href="https://t.me/TheUntoldCoder"> <img src="https://img.shields.io/badge/UNTOLDCODER-dev-blue? =social&logo=telegram" alt="DEVELOPER" /></a> 
+TELEGRAM ☞︎︎︎ <a href="https://t.me/TheUntoldCoder"> <img src="https://img.shields.io/badge/UNTOLDCODER-dev-blue? style=social&logo=telegram" alt="DEVELOPER" /></a> 
 GITHUB ➛ <a href="https://github.com/TheUntoldCoder" alt="UNTOLD"><img src="https://img.shields.io/badge/github-Untoldcoder-green?logo=github" /></a> 
 ##### Krishna ☻︎
 
