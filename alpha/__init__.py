@@ -1,5 +1,5 @@
 from .client import alpha
-from .config import Var
+from alpha.config import Var
 from pyrogram import filters
 
 def _filter(_, __, m):
