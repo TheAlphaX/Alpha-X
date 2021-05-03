@@ -26,7 +26,7 @@
 
  "repository": "https://github.com/TheAlphaX/Alpha-X.git",
 
- "stack": "heroku-18",
+ "stack": "heroku-20",
 
    "env": {
 
