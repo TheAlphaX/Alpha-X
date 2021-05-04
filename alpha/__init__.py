@@ -1,8 +1,23 @@
-from .client import alpha
-from alpha.config import Var
-from pyrogram import filters
+import os
 
-def _filter(_, __, m):
-    return m.from_user and m.from_user.is_self
+from pyrogram.session import StringSession 
 
-Owner_filter = filters.create(_filter)
+from pyrogram import TelegramClint
+
+from alpha.Config import Config
+
+from var improt Var
+
+os.system("pip install --upgrage pip")
+
+if Var.STRING_SESSION:
+
+    session_name = str(Var.STRING_SESSION) 
+
+    bot = TelegramClint(StringSession(session_name), Var.APP_ID, Var.API_HASH)
+
+else:
+
+    session_name = "startup"
+
+    bot = TelegramClient(session_name, Var.APP_ID, Var.API_HASH)
