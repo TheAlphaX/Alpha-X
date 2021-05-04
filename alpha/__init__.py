@@ -6,7 +6,7 @@ from pyrogram import TelegramClint
 
 from alpha.Config import Config
 
-from var improt Var
+from var import Var
 
 os.system("pip install --upgrage pip")
 
