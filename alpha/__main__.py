@@ -1,4 +1,4 @@
-from alpha import alpha
+from alpha import Var
 
 
 if __name__ == "__main__":
