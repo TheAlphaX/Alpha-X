@@ -1,6 +1,6 @@
 import time
 
-from alpha import alpha, Owner_filter
+from alpha import alpha, Ownerfilter
 from pyrogram import filters
 from pyrogram.types import Message
 
