@@ -5,7 +5,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 
-@alpha.on_message(Owner_filter & filters.command("ping"))
+@alpha.on_message(Ownerfilter & filters.command("ping"))
 async def ping(_, msg: Message):
     text = "**Pong!**"
     st = time.time()
