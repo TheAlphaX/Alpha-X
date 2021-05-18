@@ -1,20 +1,19 @@
 import time
 
-from alpha import alpha, Ownerfilter
+from alpha import alpha
 from pyrogram import filters
 from pyrogram.types import Message
 
 
-@alpha.on_message(Ownerfilter & filters.command("ping"))
+@alpha.on_message(filters.command("ping", ".") & filters.me)
 async def ping(_, msg: Message):
+
     text = "**Pong!**"
     st = time.time()
-    message = await alpha.edit_message_text(
-        msg.chat.id,
-        msg.message_id,
-        text
-    )
+
+    await msg.edit(text)
+
     et = time.time()
     text += f"\n`{et - st} ms`"
 
-    await message.edit(text)
+    await msg.edit(text)
