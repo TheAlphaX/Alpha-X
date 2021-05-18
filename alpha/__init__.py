@@ -1,4 +1,4 @@
-from program import filters
+from pyrogram import filters
 from .client import alpha
 
 def _filter(_, __, m):
