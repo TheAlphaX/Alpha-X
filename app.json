@@ -1,0 +1,84 @@
+{
+
+ "name": "AlphaX - UserBot",
+
+ "description": "An advanced Telethon userbot to protect you from scammers with extra features ",
+
+ "logo": "https://telegra.ph/file/ac5c69f84746fb294975c.jpg",
+
+ "keywords": [
+
+  "telegram",
+
+  "Advanced",
+
+  "alphax",
+
+  "userbot",
+
+  "scorpion",
+
+  "modular",
+
+  "productivity"
+
+ ],
+
+ "repository": "https://github.com/TheAlphaX/Alpha-X.git",
+
+ "stack": "heroku-20",
+
+   "env": {
+
+     
+
+      "ENV": {
+
+   "description": "Setting this to ANYTHING will enable heroku.",
+
+   "value": "ANYTHING"
+
+  },
+
+  "APP_ID": {
+
+   "description": "Get this value from my.telegram.org! Please do not steal",
+
+   "value": ""
+
+  },
+
+  "API_HASH": {
+
+   "description": "Get this value from my.telegram.org! Please do not steal",
+
+   "value": ""
+
+  },
+
+  "STRING_SESSION": {
+
+   "description": "Important to activate get it from here :- https://replit.com/@RoyalDevendra/AlphaX-session",
+
+   "value": ""
+
+  }
+
+  
+
+},
+
+ "addons": [{
+
+  "plan": "heroku-postgresql",
+
+  "options": {
+
+   "version": "12"
+
+  }
+
+ }]
+
+}
+
