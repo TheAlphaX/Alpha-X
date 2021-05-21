@@ -9,9 +9,11 @@ CMD_HNDLR = os.environ.get("CMD_HNDLR", r"\.")
 HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY")
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
 OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID","0").split())
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
+SUDO_ENABLED = False
+SUDO_USERS: Set[int] = set()
+DOWN_PATH = os.environ.get("DOWN_PATH")
 
-        
-            
 
             
 
