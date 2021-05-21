@@ -50,10 +50,15 @@
     
   "HEROKU_API_KEY": {
    "description": "Important to run your ALPHA-X userbot"
-   "value":""
+   "value":  ""
    
   },
+    
+  "HEROKU_APP_NAME": {
+   "description": "Give your Heroku app Name"
+   "value": ""
    
+  },
 
 
   "API_HASH": {
