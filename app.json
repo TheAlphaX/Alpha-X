@@ -47,6 +47,14 @@
    "value": ""
 
   },
+    
+  "HEROKU_API_KEY": {
+   "description": "Important to run your ALPHA-X userbot"
+   "value":""
+   
+  },
+   
+
 
   "API_HASH": {
 
