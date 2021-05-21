@@ -8,7 +8,7 @@ from pyrogram.types import Message
 @alpha.on_message(filters.command("ping", ".") & filters.me)
 async def ping(_, msg: Message):
 
-    text = "**Pong!**"
+    text = "❮**Pong!**❯\n\n\n__ALPHA-X__ツ"
     st = time.time()
 
     await msg.edit(text)
