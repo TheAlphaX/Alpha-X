@@ -49,13 +49,13 @@
   },
     
   "HEROKU_API_KEY": {
-   "description": "Important to run your ALPHA-X userbot"
+   "description": "Important to run your ALPHA-X userbot",
    "value":  ""
    
   },
     
   "HEROKU_APP_NAME": {
-   "description": "Give your Heroku app Name"
+   "description": "Give your Heroku app Name",
    "value": ""
    
   },
