@@ -16,7 +16,7 @@ This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
 
 
-[![Python 3.7](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.8](https://img.shields.io/badge/Python-3.8%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/Alpha-X)
 
