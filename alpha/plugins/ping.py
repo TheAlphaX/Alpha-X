@@ -14,6 +14,6 @@ async def ping(_, msg: Message):
     await msg.edit(text)
 
     et = time.time()
-    text += f"\n`{et - st} ms`"
+    text += f"\n`{round((et - st), 2)} ms`"
 
     await msg.edit(text)
