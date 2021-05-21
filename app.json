@@ -72,6 +72,8 @@
    "description": "To whom you want to assign as Sudo user",
    "required": "false",
    "value": ""
+  
+  },
 
   "STRING_SESSION": {
 
