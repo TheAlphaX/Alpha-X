@@ -8,5 +8,10 @@ ALIVE_PIC = os.environ.get("ALIVE_PIC")
 CMD_HNDLR = os.environ.get("CMD_HNDLR", r"\.")
 HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY")
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
-OWNER_ID = tuple(filter(lambda x: x, map(int, os.environ.get("OWNER_ID", "0").split())))
+OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID","0").split())
+
+        
+            
+
+            
 
