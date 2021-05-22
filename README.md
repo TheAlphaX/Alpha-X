@@ -83,12 +83,9 @@ TELEGRAM ☞︎︎︎ <a href="https://t.me/Royal_Devendra"> <img src="https://i
  
 GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="https://img.shields.io/badge/github-RoyalDevendra-teal?logo=github" /></a>
 
-##### UNTOLD CODER ☻︎
 
-TELEGRAM ☞︎︎︎  <a href="https://t.me/TheUntoldCoder"> <img src="https://img.shields.io/badge/untold-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
  
- 
-GITHUB ➛ <a href="https://github.com/TheUntoldCoder" alt="UNTOLD"><img src="https://img.shields.io/badge/github-Untoldcoder-green?logo=github" /></a> 
+
 ##### Krishna ☻︎
 
 TELEGRAM <a href="https://t.me/Krishna_Singhal"> <img src="https://img.shields.io/badge/Krishna-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
