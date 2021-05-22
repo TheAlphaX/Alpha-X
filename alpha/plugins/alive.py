@@ -51,13 +51,14 @@ def _get_alive_text_and_markup(message: Message) -> Tuple[str, Optional[InlineKe
     markup = None
     output = f"""
     ʜᴇʟʟᴏ ᴍᴀsᴛᴇʀ. ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏu😗
+    
  ❆ **ALPHA-X vision** ➛ `0.0.1`
  ❆ **Python vision** ➛  `3.8.9`
  ❆ **SUDO user** ➛  `{_parse_arg(Config.SUDO_ENABLED)}`
  ❆ **YOUR SECURITY** ➛ `running perfectly`
  ❆ **All functions working** ➛  EXCELLENT..!
   
-  ⎝⎝𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 ɮʏ 𝗔𝗟𝗣𝗛𝗔-𝗫⎠⎠
+  ⎝⎝ 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 ɮʏ [𝗔𝗟𝗣𝗛𝗔-𝗫](https://t.me/AlphaXupdates) ⎠⎠
  """
  
  def _parse_arg(arg: bool) -> str:
