@@ -70,8 +70,9 @@
   },
   "SUDO_USERS": {
    "description": "To whom you want to assign as Sudo user",
-   "required": "false",
+   
    "value": ""
+   "required": false
   
   },
 
