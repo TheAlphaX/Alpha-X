@@ -11,7 +11,7 @@ HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
 OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID","0").split())
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 SUDO_ENABLED = False
-SUDO_USERS: Set[int] = set()
+SUDO_USERS: os.environ.get("SUDO_USERS", None)
 DOWN_PATH = os.environ.get("DOWN_PATH")
 U_BRANCH = "main"
 UPSTREAM_REPO = os.environ.get(
