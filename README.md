@@ -41,20 +41,11 @@ FROM
 
 
 ### SESSION STRING 
-
-###### ALL ARE SAFE YOU CAN USE ANY OF THEM😌
-
-
-### MONGODB DATABASE_URI
-##### How to Get DATABASE_URI from Mongodb?
-Check out and Watch the to get DATABASE_URI 
-
-➠ VIDEO ➣
-<a href="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/How%20To%20GET-DATABASE-red.svg?logo=Youtube"></a><a href="https://youtu.be/GzsjrTrNgEE"><img src="https://img.shields.io/badge/Tutorial-red?style=social&logo=Youtube"></a> 
+<a href="https://t.me/pyrosessiongen_bot" target="_blank"><img src="https://img.shields.io/badge/BoT-STRING_SESSION-orange.svg?style=for-the-badge&logo=Telegram"></a>
+#### SAFE TO USE 😌
 
 
- 
-➠ WEBSITE➢ <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MANGOdb-DATABASE_URI-green?style=for-the-badge&logo=mangodb.com" alt="DATABASE_URI" /></a>
+
 # SUPPORT 
 
 <a href="https://telegram.me/AlphaXUpdates" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
