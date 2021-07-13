@@ -41,11 +41,7 @@ FROM
 
 
 ### SESSION STRING 
-<a href="https://replit.com/@RoyalDevendra/AlphaX-session" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-<a href="https://replit.com/@loverboyXD/ALPHA-X-2" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
-
-<a href="https://replit.com/@loverboyXD/ALPHA-X" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 ###### ALL ARE SAFE YOU CAN USE ANY OF THEM😌
 
 
