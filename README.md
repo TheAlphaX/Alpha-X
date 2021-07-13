@@ -86,12 +86,7 @@ GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="h
 
  
 
-##### Krishna ☻︎
 
-TELEGRAM <a href="https://t.me/Krishna_Singhal"> <img src="https://img.shields.io/badge/Krishna-dev-blue?style=social&logo=telegram" alt="DEVELOPER" /></a> 
-
-
-GITHUB ➛ <a href="https://github.com/Krishna-Singhal" alt="krishna"><img src="https://img.shields.io/badge/github-krishnasinghal-brown?logo=github" /></a>
 
 ##### 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗈𝖥 L͟O͟G͟O͟S͟+C͟L͟I͟P͟S͟ Oᖴ 𝐀𝐥𝐩𝐡𝐚-𝐗 ☻︎
 
