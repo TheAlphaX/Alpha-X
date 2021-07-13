@@ -27,17 +27,19 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 # How to Deploy AlphaX Userbot?
 ##### click on Deploy to Heroku Button 
 
+<p>
 
 
-<p align="left">
 
-  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X">
-
-     <img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
 
   </a>
 
-</p> 
+</p>
+
+     
+     
+
 
 ### API ID AND API HASH 
 ŦEŁEGŘλM 
