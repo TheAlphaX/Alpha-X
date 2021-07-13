@@ -23,12 +23,12 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 ## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
 
 <p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x"><img src="https://img.shields.io/github/last-commit/TheAlphaX/Alpha-X?logoColor=brown&style=plastic"></a>
-# Deploy
+
 # How to Deploy AlphaX Userbot?
 ##### click on Deploy to Heroku Button 
 
 Tutorial VIDEO WILL AVAILABLE SOON!
-# 
+
 <p align="left">
 
   <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X">
