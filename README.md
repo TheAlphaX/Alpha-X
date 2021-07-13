@@ -27,7 +27,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 # How to Deploy AlphaX Userbot?
 ##### click on Deploy to Heroku Button 
 
-Tutorial VIDEO WILL AVAILABLE SOON!
+
 
 <p align="left">
 
