@@ -51,7 +51,7 @@ FROM
 
 
 ### SESSION STRING 
-<a href="https://t.me/pyrosessiongen_bot" target="_blank"><img src="https://img.shields.io/badge/BoT-STRING_SESSION-orange.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pyrosessiongen_bot" target="_blank"><img src="https://img.shields.io/badge/BoT-STRING_SESSION-orange.svg?style=for-the-badge&logo=Telegram"></a>
 #### SAFE TO USE 😌
 
 
