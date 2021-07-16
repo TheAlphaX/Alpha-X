@@ -59,6 +59,15 @@
    "value": ""
    
   },
+  "OWNER_USERNAME": {
+   "description": "Your Telegram username", 
+   "value": "",
+  },
+    
+  "OWNER_ID": {
+   "description": "Your user_id Of Telegram",
+   "value": "",
+  },
 
 
   "API_HASH": {
