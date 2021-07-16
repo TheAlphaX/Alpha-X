@@ -8,7 +8,26 @@ from pyrogram.types import Message
 @alpha.on_message(filters.command("ping", ".") & filters.me)
 async def ping(_, msg: Message):
 
-    text = "❮**Pong!**❯\n\n\n__ALPHA-X__ is **ON!**ツ"
+    text = f"""
+┏━━━┓━━━━━━━━━┓
+
+┃┏━┓┃━━━━━━━━━┃
+
+┃┗━┛┃━━┓━┓━━━┓┃
+
+┃┏━━┛┏┓┃┏┓┓┏┓┃┛
+
+┃┃━━━┗┛┃┃┃┃┗┛┃┓
+
+┗┛━━━━━┛┛┗┛━┓┃┛
+
+━━━━━━━━━━━━┛┃━
+
+━━━━━━━━━━━━━┛━
+__ALPHA-X__ is **ON!**ツ
+•My Master→ {OWNER_USERNAME}
+•Ms↓
+"""
     st = time.time()
 
     await msg.edit(text)
