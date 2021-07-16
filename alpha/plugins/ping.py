@@ -3,7 +3,9 @@ import time
 from alpha import alpha
 from pyrogram import filters
 from pyrogram.types import Message
+from alpha.config import Config 
 
+OWNER_USERNAME= Config.OWNER_USERNAME
 
 @alpha.on_message(filters.command("ping", ".") & filters.me)
 async def ping(_, msg: Message):
