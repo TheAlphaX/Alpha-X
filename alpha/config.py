@@ -17,7 +17,7 @@ DOWN_PATH = os.environ.get("DOWN_PATH")
 U_BRANCH = "main"
 UPSTREAM_REPO = os.environ.get(
 
-        "UPSTREAM_REPO", "https://github.com/TheAlphaX/Alpha-x"
+        "UPSTREAM_REPO", "https://github.com/TheAlphaX/Alpha-X"
 
     )
 
