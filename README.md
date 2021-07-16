@@ -1,7 +1,7 @@
 <p align="center">
    
    <a href="https://github.com/TheAlphaX/AlphaX">
-      <img src="resources/logos/readme.jpg" alt="alphax", height="500px",width="500px">
+      <img src="resources/logos/readme.jpg" alt="alphax", height="300px",width="300px">
    </a>
    <br>
    <b>AlphaX UserBot</b><br>
