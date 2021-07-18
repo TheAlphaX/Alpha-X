@@ -3,10 +3,10 @@ from telethon.tl.functions.channels import ExportMessageLinkRequest as GetLink
 
 from . import *
 
-ULTPIC = "resources/logos/core_used.jpg"
+ALPHAPIC = "resources/logos/core_used.jpg"
 CL = udB.get("INLINE_PIC")
 if CL:
-    ULTPIC = CL
+    ALPHAPIC = CL
 
 
 @ultroid_cmd(pattern="update$")
@@ -33,7 +33,8 @@ async def _(e):
         )
     else:
         await xx.edit(
-            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/TeamUltroid/Ultroid/tree/{branch}">[{branch}]</a></strong>',
+            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/TheAlphaX/Alpha-X/tree/{branch}">[{branch}]</a></strong>',
             parse_mode="html",
             link_preview=False,
         )
+
