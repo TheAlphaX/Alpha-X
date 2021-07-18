@@ -1,3 +1,7 @@
+# by chrisdroid1
+
+# Keep credit kangers
+
 from datetime import datetime
 from time import sleep
 
