@@ -5,8 +5,8 @@ from sqlalchemy import Column, PickleType, UnicodeText, distinct, func
 from . import BASE, SESSION
 
 
-class Cat_GlobalCollection(BASE):
-    __tablename__ = "cat_globalcollection"
+class Alpha_GlobalCollection(BASE):
+    __tablename__ = "alpha_globalcollection"
     keywoard = Column(UnicodeText, primary_key=True)
     contents = Column(PickleType, primary_key=True, nullable=False)
 
