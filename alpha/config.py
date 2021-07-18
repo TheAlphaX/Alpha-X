@@ -1,5 +1,5 @@
 import os
-class Config(object): 
+class config(object): 
         
       API_ID = int(os.environ.get("API_ID", 0))
       API_HASH = os.environ.get("API_HASH")
