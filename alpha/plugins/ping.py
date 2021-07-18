@@ -21,7 +21,7 @@ async def ping(_, msg: Message):
 ━━━━━━━━━━━━━┛━
 __ALPHA-X__ is **ON!**ツ
 
-•My Master→ {OWNER_USERNAME}
+•My Master→ @{OWNER_USERNAME}
 
 ↓||•Ms•||↓
 """
