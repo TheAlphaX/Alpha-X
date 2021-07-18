@@ -1,4 +1,4 @@
-from alpha import alpha 
+from alpha import *
 from pyrogram import filters
 from pyrogram.types import Message
 from alpha import config 
