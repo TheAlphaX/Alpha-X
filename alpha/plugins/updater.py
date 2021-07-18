@@ -17,7 +17,7 @@ async def _(e):
     if m:
         x = await asst.send_file(
             int(udB.get("LOG_CHANNEL")),
-            ULTPIC,
+            ALPHAPIC,
             caption="• **Update Available** •",
             force_document=False,
             buttons=Button.inline("Changelogs", data="changes"),
