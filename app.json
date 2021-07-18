@@ -62,11 +62,14 @@
   "OWNER_USERNAME": {
    "description": "Your Telegram username", 
    "value": "",
+   "required": true 
+   
   },
     
   "OWNER_ID": {
    "description": "Your user_id Of Telegram",
    "value": "",
+   "required": true
   },
 
 
