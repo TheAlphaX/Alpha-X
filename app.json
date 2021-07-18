@@ -60,7 +60,7 @@
    
   },
   "OWNER_USERNAME": {
-   "description": "Your Telegram username", 
+   "description": "Your Telegram username without @", 
    "value": "",
    "required": true 
    
