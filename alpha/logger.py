@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO,
                     datefmt='%d-%b-%y %H:%M:%S',
                     handlers=[
                         RotatingFileHandler(
-                            "logs/userge.log", maxBytes=20480, backupCount=10),
+                            "logs/alpha.log", maxBytes=20480, backupCount=10),
                         logging.StreamHandler()
                     ])
 
