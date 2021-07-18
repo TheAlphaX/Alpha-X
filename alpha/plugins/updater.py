@@ -4,7 +4,7 @@ from telethon.tl.functions.channels import ExportMessageLinkRequest as GetLink
 from . import *
 
 ALPHAPIC = "resources/logos/core_used.jpg"
-CL = udB.get("INLINE_PIC")
+CL = environ.get("INLINE_PIC")
 if CL:
     ALPHAPIC = CL
 
@@ -16,7 +16,7 @@ async def _(e):
     branch = (Repo.init()).active_branch
     if m:
         x = await asst.send_file(
-            int(udB.get("LOG_CHANNEL")),
+            int(environ.get("LOG_CHANNEL")),
             ALPHAPIC,
             caption="• **Update Available** •",
             force_document=False,
