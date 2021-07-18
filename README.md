@@ -46,9 +46,9 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 𝙰𝙿𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
 FROM 
  ⤵
-   </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/Online-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+   </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/via_WEBSITE-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
-</p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/BoT-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+</p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/via_BoT-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
 
 
