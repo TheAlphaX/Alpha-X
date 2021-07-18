@@ -1,4 +1,5 @@
 import time
+plugin_category = "tools"
 
 from alpha import alpha
 from pyrogram import filters
