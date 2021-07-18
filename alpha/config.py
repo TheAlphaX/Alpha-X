@@ -14,7 +14,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 SUDO_ENABLED = False 
 SUDO_USERS: os.environ.get("SUDO_USERS", None)
 DOWN_PATH = os.environ.get("DOWN_PATH")
-      
+ALIVE_TEXT = os.environ.get("ALIVE_TEXT")
 
         
 
