@@ -1,15 +1,12 @@
 from alpha import *
 from pyrogram import filters
-
-plugin_category = "tools"
-
 from pyrogram.types import Message
 from alpha import config 
 # config imports 
 
 USERNAME = config.OWNER_USERNAME
 ALIVE_PIC = config.ALIVE_PIC if config.ALIVE_PIC else None 
-
+plugin_category = "tools"
 
 # here for later 
 AL_TEXT = config.ALIVE_TEXT if config.ALIVE_TEXT else f"ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ"
