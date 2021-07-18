@@ -48,6 +48,9 @@ FROM
  ⤵
    </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/telegram-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
+</p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/BoT-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+
+
 
 
 ### SESSION STRING 
