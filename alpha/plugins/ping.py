@@ -3,7 +3,7 @@ import time
 from alpha import alpha
 from pyrogram import filters
 from pyrogram.types import Message
-from alpha.config import config 
+from alpha import config 
 
 OWNER_USERNAME=config.OWNER_USERNAME
 
