@@ -1,5 +1,8 @@
 from alpha import *
 from pyrogram import filters
+
+plugin_category = "tools"
+
 from pyrogram.types import Message
 from alpha import config 
 # config imports 
