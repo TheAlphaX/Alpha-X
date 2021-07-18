@@ -2,3 +2,6 @@ pyrogram
 tgcrypto
 telethon
 urlextract
+bs4
+markdown
+datetime
