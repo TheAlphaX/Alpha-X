@@ -3,7 +3,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 from alpha import alpha 
 
-plugin_category = "fun"
+
 
 REPLY = (
     "Jaa na Bsdk, gaand mara jaake.",
