@@ -17,7 +17,7 @@ ALIVE = f"""
 ❆ **Python** ᴠɪsɪᴏɴ ➣ `3.9.5`
 ❆ **Your Security** ➠ __RUNNING PERFECTLY__
 ❆ **Plugins** ➠  __All Working well__
-✗ sᴜᴅᴏ ᴜsᴇʀ ➾ {config.SUDO_USERS}
+✗ sᴜᴅᴏ ᴜsᴇʀ ➾ {config.SUDO_ENABLED}
 ✗ ʀᴇᴘᴏsɪᴛᴏʀʏ ✨ ➾ [Alpha-X](https://github.com/TheAlphaX/Alpha-X) ✗
 
 """
