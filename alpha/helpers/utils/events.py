@@ -18,10 +18,10 @@ async def reply_id(event):
 
 
 async def get_user_from_event(
-    event, catevent=None, secondgroup=None, nogroup=False, noedits=False
+    event, alphaevent=None, secondgroup=None, nogroup=False, noedits=False
 ):  # sourcery no-metrics
-    if catevent is None:
-        catevent = event
+    if alphaevent is None:
+        alphaevent = event
     if nogroup is False:
         if secondgroup:
             args = event.pattern_match.group(2).split(" ", 1)
@@ -66,11 +66,11 @@ async def get_user_from_event(
         elif not args:
             if not noedits:
                 await edit_delete(
-                    catevent, "`Pass the user's username, id or reply!`", 5
+                    alphaevent, "`Pass the user's username, id or reply!`", 5
                 )
             return None, None
     except Exception as e:
         LOGS.error(str(e))
     if not noedits:
-        await edit_delete(catevent, "__Couldn't fetch user to proceed further.__")
+        await edit_delete(alphaevent, "__Couldn't fetch user to proceed further.__")
     return None, None
