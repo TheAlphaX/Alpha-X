@@ -1,10 +1,5 @@
-import alpha
-from alpha import Alpha
-from alpha import scheduler
+from alpha import alpha
+
 
 if __name__ == "__main__":
-    alpha.client = Alpha
-
-    scheduler.start()
-
-    Alpha.run()
+    alpha.run()
