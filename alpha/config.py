@@ -15,6 +15,9 @@ SUDO_ENABLED = False
 SUDO_USERS: os.environ.get("SUDO_USERS", None)
 DOWN_PATH = os.environ.get("DOWN_PATH")
 ALIVE_TEXT = os.environ.get("ALIVE_TEXT")
+PY = 0.9.5 
+ALPHA = 0.0.1
+
 
         
 
