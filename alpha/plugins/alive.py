@@ -3,6 +3,8 @@ from alpha import alpha
 from pyrogram import filters
 from pyrogram.types import Message
 from alpha import config 
+from alpha.plugins import ALPHA, PY
+
 # config imports 
 
 USERNAME = config.OWNER_USERNAME
@@ -13,8 +15,8 @@ ALIVE_PIC = config.ALIVE_PIC if config.ALIVE_PIC else None
 AL_TEXT = config.ALIVE_TEXT if config.ALIVE_TEXT else f"ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ"
 
 ALIVE=f"""
-<b>• ALPHA-X</b> vision→ <code> {config.ALPHA} </code>
-<b>• Python</b> Vision→ <code> {config.PY} </code>
+<b>• ALPHA-X</b> vision→ <code> {ALPHA} </code>
+<b>• Python</b> Vision→ <code> {PY} </code>
 <b>• Sudo User</b>→ {config.SUDO_ENABLED} 
 <b>•❤️My Master</b>❤️→ @{USERNAME} 
 
