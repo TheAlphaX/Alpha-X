@@ -8,7 +8,7 @@ from alpha.plugins import ALPHA, PY
 # config imports 
 
 USERNAME = config.OWNER_USERNAME
-ALIVE_PIC = config.ALIVE_PIC if config.ALIVE_PIC else None 
+BOT_PIC = config.BOT_PIC if config.BOT_PIC else None 
 
 
 # here for later 
