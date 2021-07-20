@@ -4,4 +4,4 @@ STRING_SESSION = ""
 OWNER_USERNAME = ""
 OWNER_ID = 
 BOT_PIC = None 
-ALIVE_TEXT = "Hi..This is Alpha-X" 
+ALIVE_TEXT = None
