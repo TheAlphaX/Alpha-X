@@ -1,7 +1,9 @@
 import re
 import os
 import asyncio
+from pyrogram import filters
 
+from pyrogram.types import Message
 from typing import Tuple, Optional
 from alpha import alpha 
 from alpha import config
