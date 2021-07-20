@@ -28,7 +28,7 @@ ALIVE=f"""
 @alpha.on_message(filters.command("alive", ".") & filters.me)
 async def alive(_, msg: Message):
       if ALIVE_PIC: 
-        await msg.edit(ALIVE_PIC, AL_TEXT, ALIVE)
+        await msg.edit(BOT_PIC, AL_TEXT, ALIVE)
       else:
         await msg.edit(AL_TEXT, ALIVE)
         
