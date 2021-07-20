@@ -27,7 +27,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 # How to Deploy AlphaX Userbot?
 # As Heroku Sucks 🥲`Userbots` due to voilents privacy of `Salesforce`
 ## So We are Hosting Our BoT AT VPS or TERMUX 🤩 
-### `<b> THE PROCESS TO <i>DEPLOY VIA TERMUX</i> SHOWN Below:<b>`
+### ` THE PROCESS TO DEPLOY VIA TERMUX SHOWN Below:`
    
      
      
