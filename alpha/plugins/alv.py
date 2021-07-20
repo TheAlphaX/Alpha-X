@@ -13,7 +13,7 @@ from alpha.plugins import ALPHA, PY
 USERNAME = config.OWNER_USERNAME
 BOT_PIC = config.BOT_PIC
 
-ALIVEE = (f"""
+ALIVEE = f"""
 [✨]({config.BOT_PIC})
 ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ 
 <b>• ALPHA-X</b> vision→ <code> {ALPHA} </code>
@@ -21,9 +21,9 @@ ALIVEE = (f"""
 <b>• Sudo User</b>→ {config.SUDO_ENABLED} 
 <b>•❤️My Master</b>❤️→ @{USERNAME}\n\n
 ||•|| Security by ALPHA-X ||•||
-""",
-disable_web_page_preview=False
-)
+"""
+
+
 ALIVE = f"""
 ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ 
 <b>• ALPHA-X</b> vision→ <code> {ALPHA} </code>
