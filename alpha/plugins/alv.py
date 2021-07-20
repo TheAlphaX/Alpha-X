@@ -15,7 +15,7 @@ BOT_PIC = config.BOT_PIC
 
 ALIVEE = f"""
 [✨]({config.BOT_PIC})
-ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ 
+ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ\n\n
 <b>• ALPHA-X</b> vision→ <code> {ALPHA} </code>
 <b>• Python</b> Vision→ <code> {PY} </code>
 <b>• Sudo User</b>→ {config.SUDO_ENABLED} 
@@ -25,7 +25,7 @@ ALIVEE = f"""
 
 
 ALIVE = f"""
-ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ 
+ʜᴇʟʟo {USERNAME} ᴛʜɪs ɪs ᴀʟᴘʜᴀ-x ɪs ɪɴ ʏᴏᴜʀ sᴇʀᴠɪᴄᴇ\n\n
 <b>• ALPHA-X</b> vision→ <code> {ALPHA} </code>
 <b>• Python</b> Vision→ <code> {PY} </code>
 <b>• Sudo User</b>→ {config.SUDO_ENABLED} 
@@ -35,7 +35,7 @@ ALIVE = f"""
 
 @alpha.on_message(filters.command("alive", ".") & filters.me)
 async def alive(_, msgg: Message):
-      if BOT_PIC is True:
+      if BOT_PIC:
           await msgg.edit(ALIVEE)
       else:
           await msgg.edit(ALIVE)
