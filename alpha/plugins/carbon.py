@@ -6,7 +6,7 @@ from urllib.parse import quote_plus
 import aiofiles
 from selenium import webdriver
 from pyrogram.errors.exceptions.bad_request_400 import YouBlockedUser
-from pyrogram import Message
+from pyrogram.types import Message
 from alpha import alpha, config
 
 CARBON = 'https://carbon.now.sh/?t={theme}&l={lang}&code={code}&bg={bg}'
