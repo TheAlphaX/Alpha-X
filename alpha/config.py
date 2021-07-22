@@ -1,3 +1,5 @@
+import os
+
 API_ID = 
 API_HASH = ""
 STRING_SESSION = ""
@@ -5,3 +7,4 @@ OWNER_USERNAME = ""
 OWNER_ID = 
 BOT_PIC = None 
 ALIVE_TEXT = None
+GOOGLE_CHROME_BIN = os.environ.get("GOOGLE_CHROME_BIN")
